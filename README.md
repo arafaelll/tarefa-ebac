@@ -1,2 +1,1 @@
-# tarefa-ebac
-Tarefa ebac modulo 17
+Repositório para fins didáticos do curso de analista de dados da EBAC módulo 17 e 18
